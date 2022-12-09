@@ -1,2 +1,1 @@
-# instagram
-i made it for practice
+check number is prime or not.
